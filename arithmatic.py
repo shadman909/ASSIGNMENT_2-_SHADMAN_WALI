@@ -5,7 +5,6 @@ length_of_rectangle=float(input("Enter the length of the rectangle: "))
 width_of_rectangle =float (input("Enter the width of the rectangle: "))
 area = length_of_rectangle * width_of_rectangle
 perimeter = 2* (length_of_rectangle + width_of_rectangle)
-
 print("Area of the rectangle:", area)
 print("Perimeter of the rectangle:", perimeter)
 #2
