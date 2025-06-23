@@ -1,12 +1,12 @@
 # Question 1:  Assignment Operators
-x = 0
+x = 50
 print("Initial x =", x)
-x += 5
-print("After then x += 5:", x)
+x += 6
+print("After then x += 6:", x)
 x -= 2
 print("After then x -= 2:", x)
-x *= 3
-print("After then x *= 3:", x)
+x *= 4
+print("After then x *= 4:", x)
 x /= 2
 print("After then x /= 2:", x)
 x %= 4
