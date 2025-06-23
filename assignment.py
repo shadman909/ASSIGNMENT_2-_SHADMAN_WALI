@@ -1,4 +1,4 @@
-# Question 1: Demonstrating Assignment Operators
+# Question 1:  Assignment Operators
 x = 0
 print("Initial x =", x)
 x += 5
