@@ -24,10 +24,9 @@ print((marks >= 40 and cheated == "no" and "Student passed.") or "Student failed
 
 
 # Task 5: Use `not` to reverse a boolean condition
-hungry = input("are you hungry (yes/no): ")
 
-# Reverse the condition using not
-eat_food = not (hungry == "yes")
-
-print("eat food:", eat_food)
+hungry = input ("Are you hungry? (yes/no): ")
+# Use not to reverse the condition
+eat_food  = not (hungry != "yes")
+print("Eat food:", eat_food)
 
